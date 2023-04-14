@@ -34,7 +34,7 @@ Grid 3:
 
 The informed RRT* is an extension of the RRT*. The algorithm tries to find an optimal path between start and goal nodes by generating a rapidly exploring random tree in the configuration space of the system. The tree grows until it reaches the goal. But in Informed RRT* the heuristic function guides the tree towards the goal region. The heuristic function is an ellipsoidal heuristic. The ellipsoidal heuristic guides the tree growth towards the goal.
 
-# Results :
+Results :
 
 ![Informed_RRT](https://user-images.githubusercontent.com/64325043/231954601-ca61ce03-a9fc-46f6-9817-423e6ed7ed51.png)
 
