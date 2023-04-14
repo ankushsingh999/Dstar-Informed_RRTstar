@@ -21,15 +21,13 @@ D* has the ability to handle dynamic environments, where the graph or grid is ch
 Results:
 
 Grid 1:
-
-https://user-images.githubusercontent.com/64325043/231949203-eb58d4db-375f-4c0c-8935-92342b5f14ba.mp4
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/64325043/231954222-7b1141fc-016c-4d3f-b2ff-825e013bb12e.gif)
 
 Grid 2:
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/64325043/231954262-1f5cc60b-f047-4b56-9d0f-bd12188aa345.gif)
 
-https://user-images.githubusercontent.com/64325043/231949207-3a1135bf-6839-4e27-81dc-730cb1b890ba.mp4
 
 Grid 3:
-
-https://user-images.githubusercontent.com/64325043/231949248-07a90a9f-c457-4b19-9f04-1e60837490e1.mp4
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/64325043/231954293-86a0f702-9780-42a6-be50-a63e2b055b64.gif)
 
 
